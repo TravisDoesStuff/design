@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="418.27112"
+     inkscape:cx="186.12826"
      inkscape:cy="429.45357"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,25 +83,41 @@
          x="23.280561"
          y="142.14842"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.98950195px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffcc00;stroke-width:0.26907128;">CAUTION</tspan></text>
-    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot18"
-       style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.24669255,0,0,0.30380076,-4.0297839,70.38767)"><flowRegion
-         id="flowRegion20"
-         style="font-size:96px;text-align:center;text-anchor:middle"><rect
-           id="rect22"
-           width="658.57141"
-           height="392.85715"
-           x="52.857143"
-           y="323.70081"
-           style="font-size:96px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara24"
-         style="font-weight:bold;font-size:96px;text-align:center;text-anchor:middle">LOW</flowPara><flowPara
-         style="font-weight:bold;font-size:96px;text-align:center;text-anchor:middle"
-         id="flowPara26">GRAVITY</flowPara><flowPara
-         style="font-weight:bold;font-size:96px;text-align:center;text-anchor:middle"
-         id="flowPara28">AREA</flowPara></flowRoot>    <ellipse
+       style="font-style:normal;font-weight:normal;font-size:26.28110886px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.27376154"
+       x="-0.52113485"
+       y="176.02187"
+       id="text1732"
+       transform="scale(0.90112199,1.1097277)"><tspan
+         sodipodi:role="line"
+         x="65.778351"
+         y="176.02187"
+         id="tspan1720"
+         style="text-align:start;text-anchor:start;stroke-width:0.27376154"><tspan
+           x="65.778351"
+           y="176.02187"
+           style="font-weight:bold;font-size:26.28110886px;text-align:start;text-anchor:start;stroke-width:0.27376154"
+           id="tspan1716">LOW</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="33.132286"
+         y="208.87325"
+         id="tspan1726"
+         style="text-align:start;text-anchor:start;stroke-width:0.27376154"><tspan
+           x="33.132286"
+           y="208.87325"
+           style="font-weight:bold;font-size:26.28110886px;text-align:start;text-anchor:start;stroke-width:0.27376154"
+           id="tspan1722">GRAVITY</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="60.440002"
+         y="241.72462"
+         id="tspan1730"
+         style="text-align:start;text-anchor:start;stroke-width:0.27376154"><tspan
+           x="60.440002"
+           y="241.72462"
+           style="font-weight:bold;font-size:26.28110886px;text-align:start;text-anchor:start;stroke-width:0.27376154"
+           id="tspan1728">AREA</tspan></tspan></text>
+    <ellipse
        style="fill:#000000;stroke-width:0.20304064"
        id="path30"
        cx="-317.18515"
